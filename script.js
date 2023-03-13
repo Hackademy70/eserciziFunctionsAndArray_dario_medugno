@@ -152,4 +152,4 @@ Scrivi una funzione che, dato un numero, let numberOfShots, simuli un gioco di d
       
       console.log(counter(4999));   // output 4 cifre
       
-      console.log(counter(9999));   // output 5 cifre
+      console.log(counter(99999));   // numero troppo grande
